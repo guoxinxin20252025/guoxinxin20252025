@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Guoxin 👋
 
-<!--
-**guoxinxin20252025/guoxinxin20252025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a product manager with 10 years of experience, now working as an independent developer.
 
-Here are some ideas to get you started:
+I build open-source projects around AI, agents, and workflows — hoping they can be genuinely useful to others.
+More importantly, I believe open source is how we collaborate, learn, and build better products together in this AI era.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 你好，我是 Guoxin 👋
+
+我是一名有 10 年经验的产品经理，目前是一名独立开发者。
+
+我通过持续的开源项目，探索 AI / Agent / Workflow 相关的产品形态，希望这些项目能真正对他人有所帮助。
+也希望在这个 AI 时代，能够和更多人一起，通过开源的方式把产品做得更好。
