@@ -1,15 +1,9 @@
-## Hi, I'm Guoxin 👋
+## Hi, I'm Xin Guo 👋 
 
-I'm a product manager with 10 years of experience, now working as an independent developer.
+我是一名有 10 年经验的产品经理，目前是一名独立 AI 产品开发者。 
+技术出身，做过产品，现在同时负责全栈开发与产品设计。 曾在创业团队和大厂工作，负责过千万级用户规模的产品。 
+我正在通过开源项目，探索 AI / Agent / Workflow 相关的产品形态，希望这些项目能真正对他人有所帮助。 也希望在这个 AI 时代，能够和更多人一起，通过开源的方式把产品做得更好。 
 
-I build open-source projects around AI, agents, and workflows — hoping they can be genuinely useful to others.
-More importantly, I believe open source is how we collaborate, learn, and build better products together in this AI era.
+## 🤝 Looking for collaborators 
 
----
-
-## 你好，我是 Guoxin 👋
-
-我是一名有 10 年经验的产品经理，目前是一名独立开发者。
-
-我通过持续的开源项目，探索 AI / Agent / Workflow 相关的产品形态，希望这些项目能真正对他人有所帮助。
-也希望在这个 AI 时代，能够和更多人一起，通过开源的方式把产品做得更好。
+现在在探索新的创业方向，找技术搭子。如果你是一名AI开发者，希望在AI这个时代，能让世界变的更好一些，欢迎通过 GitHub 和我交流。
